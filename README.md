@@ -1,4 +1,5 @@
-# Lineage team: Using mutations and their order to cluster clones.
+# Lineage team: Using mutations and their order to cluster clones.  
+# See PowerPoint for results.
 Dataset: lp15  
 Subject: D207  
 Method: Doc2Vec. A machine learning algorithm that finds similarities between documents.  
